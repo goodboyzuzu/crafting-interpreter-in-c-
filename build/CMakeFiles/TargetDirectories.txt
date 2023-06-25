@@ -1,0 +1,13 @@
+/workspaces/crafting-interpreter-in-c-/build/CMakeFiles/install/strip.dir
+/workspaces/crafting-interpreter-in-c-/build/CMakeFiles/install/local.dir
+/workspaces/crafting-interpreter-in-c-/build/CMakeFiles/install.dir
+/workspaces/crafting-interpreter-in-c-/build/CMakeFiles/list_install_components.dir
+/workspaces/crafting-interpreter-in-c-/build/CMakeFiles/rebuild_cache.dir
+/workspaces/crafting-interpreter-in-c-/build/CMakeFiles/edit_cache.dir
+/workspaces/crafting-interpreter-in-c-/build/src/CMakeFiles/install/strip.dir
+/workspaces/crafting-interpreter-in-c-/build/src/CMakeFiles/install/local.dir
+/workspaces/crafting-interpreter-in-c-/build/src/CMakeFiles/install.dir
+/workspaces/crafting-interpreter-in-c-/build/src/CMakeFiles/list_install_components.dir
+/workspaces/crafting-interpreter-in-c-/build/src/CMakeFiles/rebuild_cache.dir
+/workspaces/crafting-interpreter-in-c-/build/src/CMakeFiles/edit_cache.dir
+/workspaces/crafting-interpreter-in-c-/build/src/CMakeFiles/lox_repl.dir

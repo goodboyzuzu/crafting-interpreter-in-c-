@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/workspaces/crafting-interpreter-in-c-/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -I../include -g -o src/CMakeFiles/lox_repl.dir/Scanner.cpp.o -c /workspaces/crafting-interpreter-in-c-/src/Scanner.cpp",
+  "file": "/workspaces/crafting-interpreter-in-c-/src/Scanner.cpp"
+},
+{
+  "directory": "/workspaces/crafting-interpreter-in-c-/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -I../include -g -o src/CMakeFiles/lox_repl.dir/Token.cpp.o -c /workspaces/crafting-interpreter-in-c-/src/Token.cpp",
+  "file": "/workspaces/crafting-interpreter-in-c-/src/Token.cpp"
+},
+{
+  "directory": "/workspaces/crafting-interpreter-in-c-/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -I../include -g -o src/CMakeFiles/lox_repl.dir/main.cpp.o -c /workspaces/crafting-interpreter-in-c-/src/main.cpp",
+  "file": "/workspaces/crafting-interpreter-in-c-/src/main.cpp"
+}
+]

@@ -1,0 +1,6 @@
+# ninja log v5
+0	10	0	clean	a31eedcededa8236
+4	297	1682145337268505459	src/CMakeFiles/lox_repl.dir/main.cpp.o	9b003331f937cfc2
+285	383	1682142616717217447	src/lox	1f3be0dc2a7ee0d6
+297	313	0	CMakeFiles/install.util	ad05ddd2429a3c76
+4	44	1682145337012696740	src/CMakeFiles/lox_repl.dir/Scanner.cpp.o	71c4eff5c1d15281
